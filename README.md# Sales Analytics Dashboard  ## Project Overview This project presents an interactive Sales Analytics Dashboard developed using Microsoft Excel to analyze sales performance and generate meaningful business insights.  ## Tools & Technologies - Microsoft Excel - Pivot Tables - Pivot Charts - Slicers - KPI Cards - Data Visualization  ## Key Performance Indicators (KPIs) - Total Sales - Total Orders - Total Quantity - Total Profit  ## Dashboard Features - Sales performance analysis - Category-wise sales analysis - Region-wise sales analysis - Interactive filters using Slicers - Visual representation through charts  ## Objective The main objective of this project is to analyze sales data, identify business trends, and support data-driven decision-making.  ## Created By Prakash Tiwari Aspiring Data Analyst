@@ -1,0 +1,32 @@
+# Sales Analytics Dashboard
+
+## Project Overview
+This project presents an interactive Sales Analytics Dashboard developed using Microsoft Excel to analyze sales performance and generate meaningful business insights.
+
+## Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Data Visualization
+
+## Key Performance Indicators (KPIs)
+- Total Sales
+- Total Orders
+- Total Quantity
+- Total Profit
+
+## Dashboard Features
+- Sales performance analysis
+- Category-wise sales analysis
+- Region-wise sales analysis
+- Interactive filters using Slicers
+- Visual representation through charts
+
+## Objective
+The main objective of this project is to analyze sales data, identify business trends, and support data-driven decision-making.
+
+## Created By
+Prakash Tiwari
+Aspiring Data Analyst
